@@ -1,15 +1,16 @@
-products = [
+[
     {
         "id": 1,
         "name": "Bread Whole Wheat",
         "description": "Description",
         "image": "https://avatars.mds.yandex.net/i?id=0e8e258c36afeb4a766cac24f17ce44eddcb363f-12884905-images-thumbs&n=13",
         "rating": 4.5,
-        "price": 5.98,
+        "price": 5.98
     },
     {
         "id": 2,
-        "name":  "Milk","description": "Description",
+        "name":  "Milk",
+        "description": "Description",
         "image": "https://www.boursenews.ir/files/fa/news/1398/10/25/175975_760.jpg",
         "rating": 4.5,
         "price":  2.56
